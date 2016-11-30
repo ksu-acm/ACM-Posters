@@ -2,6 +2,8 @@
 
 Poster templates for the K-State Chapter of the Association for Computing Machinery.
 
+[Official ACM Logos](http://identitystandards.acm.org/matrix.html)
+
 There are .psd and .eps files for previous event posters located in this repository. If you would like, you can open .psd files in Adobe Photoshop and .eps files in Adobe Illustrator (you can go to the Media Development Center in Hale Library for access to this software) then adjust colors on text layers, remove/change images, update text info, etc, and save them as a NEW poster.
 
 Feel free to create new posters and add templates to the repository, but do not overwrite existing template files.
